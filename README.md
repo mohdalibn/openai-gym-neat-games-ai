@@ -40,3 +40,10 @@ pip install gym
 ```Python
 pip install numpy
 ```
+
+Download a copy of this repository onto your local machine and extract it into a suitable folder.
+- Open an IDE (VSCode Recommended) in the **Root Directory** of the Project. Make sure you follow this step for the scripts to work.
+- Create a Virtual Environment in that folder.
+- Install all the required Python libraries mentioned above.
+
+- Enjoying using this project!
