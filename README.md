@@ -8,6 +8,8 @@
 <!-- Project Description -->
 # ![project-description (15)](https://user-images.githubusercontent.com/95453430/164316736-e7d901d6-8fbc-4fca-9d62-2d3124986ff5.svg)
 
+This is a **Python Project Repository** in which we use **Neuro Evolution of Augmented Topologies (NEAT) Algorithm to train and test diffrent neural networks to play 4 games provided by OpenAI Gym**. These four games are **Bipedal Walker-v3, Cart Pole-v1, Mountain Car-v0, & Lunar Lander-v2** as seen in the preview image above. In this repository, each game has a **script for training the neural network, a script for testing the neural network on the game, & a NEAT Configuration File** located in the **TrainingScripts, TestingScripts, & ConfigFiles** respectively. After a model is trained for a game, The **Neural Network** with the best **Fitness** is stored as pickle file in the **Winners** folder. This repository already comes with trained models for each of the games, so feel free to test the models in the games using the testing scripts!
+
 <!-- Project Tech-Stack -->
 # ![technologies-used (15)](https://user-images.githubusercontent.com/95453430/164316742-1e6675db-1d60-42f2-b566-abed44c9aae8.svg)
 
