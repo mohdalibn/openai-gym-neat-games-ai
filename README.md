@@ -45,5 +45,6 @@ Download a copy of this repository onto your local machine and extract it into a
 - Open an IDE (VSCode Recommended) in the **Root Directory** of the Project. Make sure you follow this step for the scripts to work.
 - Create a Virtual Environment in that folder.
 - Install all the required Python libraries mentioned above.
+- The **scripts to train models** are all located in the **TrainingScripts** folder in the **Root Directory**. Similarly, the **scripts to test models** are located in the **TestingScripts** folder. Additionally, all the **NEAT Config Files** are located in the **ConfigFiles** folder.
 
 - Enjoying using this project!
