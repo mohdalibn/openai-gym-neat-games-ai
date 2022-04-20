@@ -4,7 +4,6 @@ import os
 import pickle
 import neat
 import gym
-import neat
 import numpy as np
 
 
