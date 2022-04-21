@@ -55,4 +55,4 @@ python TestingScripts/TestBidepalWalker.py
 python TrainingScripts/BidepalWalker.py
 ```
 - Once the training process is done, follow **Step 5** to test the model.
-- Enjoying using this project!
+- Enjoy using this project!
