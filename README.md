@@ -46,5 +46,13 @@ Download a copy of this repository onto your local machine and extract it into a
 - Create a Virtual Environment in that folder.
 - Install all the required Python libraries mentioned above.
 - The **scripts to train models** are all located in the **TrainingScripts** folder in the **Root Directory**. Similarly, the **scripts to test models** are located in the **TestingScripts** folder. Additionally, all the **NEAT Config Files** are located in the **ConfigFiles** folder.
-
+- To test a pre-existing model, open the testing script of the game you want to test and run the code by clicking on the **Code Runner** button or open the built-in terminal in VSCode/IDE and run the command shown below. The example below is to run and test the model for the Bipedal Walker game.
+```Python
+python run TestingScripts/TestBidepalWalker.py
+```
+- To train your own model, firstly, delete the pickle file of the corresponding game that you want to train from the **Winners** folder. Open the training script of the game you want to train and run the code by clicking on the **Code Runner** button or open the built-in terminal in VSCode/IDE and run the command shown below. The example below is to train the model for the Bipedal Walker game.
+```Python
+python run TrainingScripts/BidepalWalker.py
+```
+- Once the training process is done, follow **Step 5** to test the model.
 - Enjoying using this project!
